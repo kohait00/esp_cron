@@ -31,8 +31,6 @@
 
 #include "ccronexpr.h"
 
-#define CRON_USE_LOCAL_TIME
-
 #define CRON_MAX_SECONDS 60
 #define CRON_MAX_MINUTES 60
 #define CRON_MAX_HOURS 24
